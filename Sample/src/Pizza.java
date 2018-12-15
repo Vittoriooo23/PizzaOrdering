@@ -97,26 +97,6 @@ public class Pizza extends Application{
         }
         catch (Exception e) {
             e.printStackTrace();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
         primaryStage.setResizable(false);
     }
